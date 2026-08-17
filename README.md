@@ -1,5 +1,5 @@
 # TP1-ED2
 
-DEMO Electrónica Digital 2
+Repositorio para el Trabajo Práctico 1 de Electrónica Digital 2
 
-Prueba de COMMIT
+
